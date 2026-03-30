@@ -1,0 +1,24 @@
+body,
+main,
+section,
+h1,
+p,
+picture,
+img,
+em,
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
